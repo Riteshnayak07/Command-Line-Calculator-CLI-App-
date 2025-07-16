@@ -18,3 +18,5 @@ Language: Python
 Editor: VS Code / Any text editor
 
 Runtime: Terminal / Command Prompt
+Run the script in your terminal or command prompt:
+python calculator.py
